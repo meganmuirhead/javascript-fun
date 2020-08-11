@@ -5,11 +5,14 @@
 // the user/daddy rates it from 1-10
 
 let subArr = [];
-let subDid = prompt('what did the sub do?')
 
-console.log(subDid)
 
 for(let i = 0; i< subArr.length; i ++) {
     subArr.push(subDid)
     console.log(subArr, 'arr');
+}
+
+function onFormSubmit() {
+    let subDid = document.getElementById("userInput").value;
+    alert(subDid);
 }
