@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e1de22f-348a-44cb-b7bb-6eb8ee3d67cf" name="Default Changelist" comment="" />
+    <list default="true" id="9e1de22f-348a-44cb-b7bb-6eb8ee3d67cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daddy-dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/daddy-dom.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fmE0McouyfT9OaNJcy4T8skcEB" />
   <component name="ProjectViewState">
@@ -45,7 +51,8 @@
       <option name="presentableId" value="Default" />
       <updated>1596814643142</updated>
       <workItem from="1596814644251" duration="2288000" />
-      <workItem from="1597091544207" duration="5801000" />
+      <workItem from="1597091544207" duration="6585000" />
+      <workItem from="1597329542541" duration="2293000" />
     </task>
     <servers />
   </component>
